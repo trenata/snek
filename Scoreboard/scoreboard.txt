@@ -1,0 +1,5 @@
+Madi: 10
+Nana: 9
+Kiki: 7
+Zuzu: 6
+Reni: 5
